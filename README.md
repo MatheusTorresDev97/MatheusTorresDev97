@@ -5,7 +5,7 @@
 <p align="center">🌱 I'm currently learning Algorithms in Typescript Language, NextJS | React Native | NestJs;</p>
 <br>
 <h3 align="center">
- 🎓🖥️ My Skills and Development Tools:
+ 🖥️ My Skills and Development Tools:
 </h3>
 <div align="center" style="display: inline_block">
   <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
