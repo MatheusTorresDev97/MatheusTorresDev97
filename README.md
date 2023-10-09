@@ -2,7 +2,7 @@
 <p align="center">📚 I am a full-stack developer, graduated in system analysis and development (2022).</p>
 <p align="center">🎓 I currently work with Javascript/Typescript at the Technology and Information Center of the Military Police of the State of Sergipe.</p>
 <p align="center">📈 My favorite framework is React</p>
-<p align="center">🌱 I'm currently learning Algorithms in Typescript Language, NextJS | React Native | NestJs;</p>
+<p align="center">🌱 I'm currently learning Algorithms in Typescript Language, JAVA | React Native | NestJs;</p>
 <br>
 <h3 align="center">
  🖥️ My Skills and Development Tools:
