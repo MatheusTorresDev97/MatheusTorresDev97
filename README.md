@@ -2,10 +2,6 @@
 <p align="center">📚 I am a full-stack developer, graduated in system analysis and development (2022).</p>
 <br>
 <h3 align="center">
- 🖥️ My Skills and Development Tools:
-</h3>
-<br>
-<h3 align="center">
   🐱Github Stats:
 </h3>
 <div align="center" style="display: inline_block">
